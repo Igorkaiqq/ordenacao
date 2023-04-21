@@ -177,8 +177,4 @@ public class a {
         System.out.println("\nTempo de execução da ordenação por seleção: " + (fim - inicio) + " ns");
     }
 
-    public static void compararBolhaInsercao(int[] listaBolha, int[] listaSelecao) {
-
-    }
-
 }
